@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>JavaScript capstone project - Your API-based webapp</b></h3>
+  <h3><b>JavaScript project API-based webapp</b></h3>
 
 </div>
 
