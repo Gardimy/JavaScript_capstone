@@ -59,6 +59,7 @@ user to like a serie and leave a comment about it.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+Fell free to check the live version [this](https://gardimy.github.io/JavaScript_capstone/dist/)
 
 - watch [this](https://jhggj/share/live)
 quick intro
