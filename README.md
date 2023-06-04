@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>JavaScript capstone project - Your API-based webapp</b></h3>
+  <h3><b>JavaScript project API-based webapp</b></h3>
 
 </div>
 
@@ -59,6 +59,7 @@ user to like a serie and leave a comment about it.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+Fell free to check the live version [this](https://gardimy.github.io/JavaScript_capstone/dist/)
 
 - watch [this](https://jhggj/share/live)
 quick intro
@@ -67,24 +68,24 @@ quick intro
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running cloning this repo `https://github.com/danielochuba/Group-capstone`.
+To get a local copy up and running cloning this repo `https://github.com/Gardimy/JavaScript_capstone`.
 
 ### Prerequisites
 
 There are no known prerequisites to run this project.
 If you encounter any issues trying to run it, please feel free to
-[open a ticket](https://github.com/danielochuba/Group-capstone/issues) to let me know and i will work on it to the best
+[open a ticket](https://github.com/Gardimy/JavaScript_capstone/issues) to let me know and i will work on it to the best
 of my abilities
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-`https://github.com/danielochuba/Group-capstone`
+`https://github.com/Gardimy/JavaScript_capstone`
 
 or
 
-`https://github.com/danielochuba/Group-capstone` <-- _Only if you have [SSH keys configured](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on your GitHub account_.
+`https://github.com/Gardimy/JavaScript_capstone` <-- _Only if you have [SSH keys configured](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on your GitHub account_.
 
 ### Usage
 
@@ -132,7 +133,7 @@ Contributions, issues, and feature requests are welcome!
 Your ideas may trigger the next features of the project
 once my knowledge base can reach the level of your imagination
 
-Feel free to check the [issues page](https://github.com/danielochuba/Group-capstone/issues/32).
+Feel free to check the [issues page]((https://github.com/Gardimy/JavaScript_capstone/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
