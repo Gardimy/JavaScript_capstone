@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "build": "webpack --mode production",
-    "start": "webpack --mode development --config webpack.config.js --watch"
+    "start": "webpack serve --mode development --open"
   },
   "repository": {
     "type": "git",
@@ -44,5 +44,8 @@
   },
   "jest": {
     "testEnvironment": "jest-environment-jsdom"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0"
   }
 }
